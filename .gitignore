@@ -12,7 +12,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
-/Task2/NewSet/
+/CNNclassification/NewSet/
 /FinalProject/CK_Plus_Images/
 /FinalProject/CK_Plus_Ready/
 /FinalProject/fer2013/
