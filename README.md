@@ -74,10 +74,12 @@ Model accuracy improved significantly after fine‑tuning.
 **Learning curves:**
 
 - **Accuracy:** Around epoch 10 (start of fine‑tuning) there is a clear jump in accuracy. Training accuracy eventually approaches ~70 %, while validation accuracy stabilizes around ~60 %.  
+
 ![Accuracy plot](FinalProject/ReadmePictures/accuracy.png)
 
 
 - **Loss:** Validation loss starts to flatten and even rise slightly after ~30 epochs, indicating the onset of overfitting despite Dropout and data augmentation.
+
 ![Loss plot](FinalProject/ReadmePictures/loss.png)
 
 **Model interpretation (Grad‑CAM):**  
